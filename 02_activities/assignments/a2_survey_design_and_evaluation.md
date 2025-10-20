@@ -40,39 +40,127 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 
 ## Part A - Survey Design: 
 
-The number of your chosen topic: `#`
+The number of your chosen topic: #1
 
 Describe the purpose of your survey:
-```
+
 write your answer here...
-```
+
+The survey aims to gather information related to a variety of factors in the workplace that could be contributing to the high turn-over rate. The purpose of the survey is to identify the main factors that are contributing to indeterminate employees in entry and lower-level positions to leaving the company at high rates. 
 
 Describe your target population, sampling frame, sampling units, and observational units:
-```
 write your answer here...
-```
+Target popultation: Current and former (departed in the past 12 months) entry-level / lower-level Indeterminate employees of the company.
+
+Sampling frame: Current list of Indeterminate employees employed in lower level and entry level positions in the company, and former (departed in the past 12 months) entry-level / lower-level Indeterminate employees whose contact details are availalbe. 
+
+Sampling units: Individuals who are or were indeterminate employees of the comapny (and departed in the past 12 months) that are/were employed in entry-level / lower-level positions
+
+Observational units: Individuals - Current and former employees 
 
 Your 5-10 question survey:
-```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+
+1. How long have you worked (or did you work) at the company
+- 0 - 3 months
+- 4 - 6 months
+- 6 - 12 months
+- 13 - 18 months
+- 19 - 24 months
+- Longer than 24 months
+2. How satisfied are/were you with your experience working for the company?
+-Neutral
+-Somewhat satisfied
+-Somewhat disattisfied
+-Satisfied
+-Dissatisfied
+-Very satisfied
+-Very dissatisfied
+3. What was the primary reason for you leaving the company / considering leaving the company?
+- Workplace culture
+- Work from home /hybrid work policy 
+- Compensation and benefits
+- Management or leadership style
+- Work-life balance
+- Job satisfaction
+- Other (pleasy specify)
+4. How satisifed are you / were you with your direct supervisor? 
+-Neutral
+-Somewhat satisfied
+-Somewhat disattisfied
+-Satisfied
+-Dissatisfied
+-Very satisfied
+-Very dissatisfied
+5. How satisifed are you / were you with your onboarding process? 
+-Neutral
+-Somewhat satisfied
+-Somewhat disattisfied
+-Satisfied
+-Dissatisfied
+-Very satisfied
+-Very dissatisfied
+6. How satisifed are you / were you with how your work is/was recognized by the company?
+-Neutral
+-Somewhat satisfied
+-Somewhat disattisfied
+-Satisfied
+-Dissatisfied
+-Very satisfied
+-Very dissatisfied
+7. Do you/did you feel you had opportunities for professional growth at the company?
+-Neutral
+-Somewhat 
+-Definately 
+-Definately not
+8. How would you describe the workload you were assigned?
+-Neutral
+-Somewhat manageable
+-Somewhat unmanageable 
+-Manageable
+-Unmanageable 
+-Very manageable
+-Very Unmanageable 
+9. What could the company do to improve job satisfaction? 
+10. Do you have an additional feedback? 
 ```
 
 ## Part B - Survey Evaluation:
 
 Identify and describe survey features:
-
 ```
 write your answer here
-```
+1. Sample type - Stratified sampling. A simple random sample without replacement of records was next selected in each stratum. Rejective sampling was also used.
+
+2. Sample size - The target sample size was 20,000 but the actual sample size was 16,149 people.
+
+3. Target population - Persons aged 15 years and over living in private households in Canada, excluding residents of the Yukon, Northwest Territories and Nunavut and full time residents of institutions. 
+
+4. Sampling frame - Data from sources of telephone numbers in use (landline and cellular) available to Statistics Canada and the Address Register (AR): List of all swellings within the ten provinces. The Address Register (AR) was used to group together all telephone numbers associated with the same valid address. About 86% of available telephone numbers were linked to the AR. The records resulting from this linkage could possess more than one telephone number (grouped by the address). The other 14% of telephone numbers not linked to the AR were also included on the frame9. The combination of those two components resulted in the survey frame.
+
+5. Survey mode(s) - Telephonic and and internet questionnaire (with invitation letter sent in the mail)
+
+6. Timeline - 12 months preceding the interview. Interviews were conducted from September 4th to December 28th, 2018.
+
+7. Response rate - 41.9%
+
+8. Weights - Household weight, non-rsponding households, person weight (adjusted several times using a raking ratio procedure), startum adjustment, income adjustment, province-age-sex adjustment. The weight produced at the end of these steps is the final person weight WGHT_PER.
+
+9. Data processing - Data capture, coding, verification was performed to identify and eliminate potential duplicate records and to drop non-response and out-of-scope records, imputation, derived variables. 
+
+10. Cleaning, imputation, etc - For item and partial non-response, donor imputation was done for certain variables. Where donor imputation could not be used, mean imputation among a pool of donors was used. Imputation was carried out in nine steps. 
+1) imputing personal income and family income.
+2-4) imputing the formal volunteering variables in the analytical master file. 
+5-6) imputing the informal volunteering variables in the analytical master file. 
+7-9) imputing variables in the donation file and the solicitation methods (FG1A_030 to FG1A_140 and FG1A_170) in the analytical master file.
+
+11. Sources of error - Total non-response, item  and partial non-responses, missing information, user error.
+
+12. Limitations, known biases, etc - Excluded residents of the territories and institutions. There were significant differences in sampling fractions between strata. Thus, some areas were over-represented in the sample (relative to their populations) while some other areas were relatively under-represented. Rejection rates varied significantly by province and by respondent type (i.e. a respondent who volunteered versus someone who didn’t volunteer). This further compounds the fact that the unweighted sample will not be representative of the target population.
+
+13. Link to documentation and any additional sources used 
+-Documents from zip file found at https://www150.statcan.gc.ca/n1/pub/45-25-0001/cat5/c33_2018.zip
+-https://www150.statcan.gc.ca/n1/en/catalogue/45250011
+-https://www150.statcan.gc.ca/n1/pub/45-25-0001/index-eng.htm  
 
 ## Rubric
 
